@@ -1,4 +1,3 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" title=" " alt="" coords="5,13,93,38"/>
-<area shape="rect" id="node2" href="$classio_1_1github_1_1adventures__in__the__jungle_1_1logic_1_1game_1_1Game.html" title="Singleton class to manage the current state of the game." alt="" coords="141,5,349,45"/>
+<area shape="rect" id="node1" href="$classio_1_1github_1_1adventures__in__the__jungle_1_1Main.html" title="The class containing the main method of the program." alt="" coords="5,5,143,45"/>
 </map>

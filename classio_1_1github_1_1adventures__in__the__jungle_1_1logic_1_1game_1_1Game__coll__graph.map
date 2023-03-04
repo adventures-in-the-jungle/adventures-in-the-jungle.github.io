@@ -1,12 +1,11 @@
 <map id="io.github.adventures_in_the_jungle.logic.game.Game" name="io.github.adventures_in_the_jungle.logic.game.Game">
-<area shape="rect" id="node1" title="Singleton class to manage the current state of the game." alt="" coords="920,520,1128,627"/>
-<area shape="rect" id="node2" title=" " alt="" coords="565,108,653,185"/>
-<area shape="rect" id="node3" href="$classio_1_1github_1_1adventures__in__the__jungle_1_1logic_1_1game_1_1Game.html" title="Singleton class to manage the current state of the game." alt="" coords="920,351,1128,457"/>
-<area shape="rect" id="node4" title=" " alt="" coords="5,101,267,193"/>
-<area shape="rect" id="node5" title=" " alt="" coords="677,101,928,193"/>
-<area shape="rect" id="node6" title=" " alt="" coords="291,101,541,193"/>
-<area shape="rect" id="node7" title=" " alt="" coords="1448,101,1699,193"/>
-<area shape="rect" id="node8" title=" " alt="" coords="952,93,1176,200"/>
-<area shape="rect" id="node9" title=" " alt="" coords="1723,101,1933,193"/>
-<area shape="rect" id="node10" href="$classio_1_1github_1_1adventures__in__the__jungle_1_1logic_1_1game_1_1Scenario.html" title="Scenario Class is different from the Room Class this will hold the Scenario methods,..." alt="" coords="1200,5,1424,288"/>
+<area shape="rect" id="node1" title="Singleton class to manage the current state of the game." alt="" coords="932,535,1140,641"/>
+<area shape="rect" id="node2" href="$classio_1_1github_1_1adventures__in__the__jungle_1_1logic_1_1game_1_1Game.html" title="Singleton class to manage the current state of the game." alt="" coords="1096,365,1304,472"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,115,229,193"/>
+<area shape="rect" id="node4" title=" " alt="" coords="254,108,530,200"/>
+<area shape="rect" id="node5" title=" " alt="" coords="555,108,856,200"/>
+<area shape="rect" id="node6" title=" " alt="" coords="880,108,1171,200"/>
+<area shape="rect" id="node7" title=" " alt="" coords="1195,115,1381,193"/>
+<area shape="rect" id="node8" title=" " alt="" coords="1406,108,1682,200"/>
+<area shape="rect" id="node9" href="$classio_1_1github_1_1adventures__in__the__jungle_1_1logic_1_1database_1_1objects_1_1Scenario.html" title="Scenario Class is different from the Room Class this will hold the Scenario methods,..." alt="" coords="1706,5,1945,303"/>
 </map>

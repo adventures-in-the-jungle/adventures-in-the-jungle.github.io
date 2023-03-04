@@ -1,0 +1,5 @@
+<map id="io.github.adventures_in_the_jungle.logic.database.objects.IChoosable" name="io.github.adventures_in_the_jungle.logic.database.objects.IChoosable">
+<area shape="rect" id="node1" title=" " alt="" coords="143,5,381,112"/>
+<area shape="rect" id="node2" href="$classio_1_1github_1_1adventures__in__the__jungle_1_1logic_1_1database_1_1objects_1_1Choice.html" title="Represents an entity in the CHOICE table of the database." alt="" coords="5,160,244,633"/>
+<area shape="rect" id="node3" href="$classio_1_1github_1_1adventures__in__the__jungle_1_1logic_1_1database_1_1objects_1_1Item.html" title="Represents the ITEM table in the database." alt="" coords="268,270,533,523"/>
+</map>
